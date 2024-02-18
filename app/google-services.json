@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463447421834",
+    "project_id": "collegealert-87a2e",
+    "storage_bucket": "collegealert-87a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463447421834:android:cfe6f1ae5ea4969fd08e73",
+        "android_client_info": {
+          "package_name": "com.example.collegealert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqdiL7DD5D2jmOd-DkuqCa4nzRa5fmvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
